@@ -1,0 +1,27 @@
+RAM Allocation [bytes]
+Variable                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+GetLine                                                                           0x0500      20
+Linecomma                                                                         0x0514       8
+
+EEPROM Allocation [bytes]
+Variable                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+
+Register Allocation
+Variable                                                                          Register  Size
+------------------------------------------------------------------------------------------------
+Flag                                                                              R5           1
+Linecnt                                                                           R4           1
+
+FLASH Allocation [words]
+Function                                                          Address   Size
+--------------------------------------------------------------------------------
+usart0_rx_isr                                                     0x0008D     21
+main                                                              0x000A2    186
+putchar                                                           0x0015C      7
+put_usart_G100                                                    0x00163     13
+_print_G100                                                       0x00170    308
+printf                                                            0x002A4     37
+strlen                                                            0x002C9     12
+strlenf                                                           0x002D5     13

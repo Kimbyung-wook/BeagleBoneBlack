@@ -1,0 +1,5 @@
+main DSTACK_USAGE:0 DSTACK_LEVEL:0 FILE:"muxboard128.c" LINE:57
+printf DSTACK_USAGE:10 DSTACK_LEVEL:10 FILE:"C:\Users\Cfp\Desktop\cvavr\cvavr\lib\stdio.lib" LINE:1528
+_print DSTACK_USAGE:20 DSTACK_LEVEL:30 FILE:"C:\Users\Cfp\Desktop\cvavr\cvavr\lib\stdio.lib" LINE:533
+strlen DSTACK_USAGE:2 DSTACK_LEVEL:32 FILE:"C:\Users\Cfp\Desktop\cvavr\cvavr\lib\string.lib" LINE:1706
+ext_int4 DSTACK_USAGE:3 DSTACK_LEVEL:35 FILE:"muxboard128.c" LINE:45

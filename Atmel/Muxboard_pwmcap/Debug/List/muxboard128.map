@@ -1,0 +1,58 @@
+RAM Allocation [bytes]
+Variable                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+cnt_duty                                                                          0x0500       2
+
+EEPROM Allocation [bytes]
+Variable                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+
+Register Allocation
+Variable                                                                          Register  Size
+------------------------------------------------------------------------------------------------
+NotPrint                                                                          R4,R5        2
+
+FLASH Allocation [words]
+Function                                                          Address   Size
+--------------------------------------------------------------------------------
+uart_init                                                         0x0008F     18
+timer_init                                                        0x000A1      9
+port_init                                                         0x000AA     17
+ext_int4                                                          0x000BB     32
+main                                                              0x000DB     65
+putchar                                                           0x0011C      7
+put_usart_G100                                                    0x00123     13
+_print_G100                                                       0x00130    308
+printf                                                            0x00264     37
+strlen                                                            0x00289     12
+strlenf                                                           0x00295     13
+
+FLASH Allocation [words]
+Function                                                          Address   Size
+--------------------------------------------------------------------------------
+uart_init                                                         0x0008F     18
+timer_init                                                        0x000A1      9
+port_init                                                         0x000AA     17
+ext_int4                                                          0x000BB     32
+main                                                              0x000DB     65
+putchar                                                           0x0011C      7
+put_usart_G100                                                    0x00123     13
+_print_G100                                                       0x00130    308
+printf                                                            0x00264     37
+strlen                                                            0x00289     12
+strlenf                                                           0x00295     13
+
+FLASH Allocation [words]
+Function                                                          Address   Size
+--------------------------------------------------------------------------------
+uart_init                                                         0x0008F     18
+timer_init                                                        0x000A1      9
+port_init                                                         0x000AA     17
+ext_int4                                                          0x000BB     32
+main                                                              0x000DB     65
+putchar                                                           0x0011C      7
+put_usart_G100                                                    0x00123     13
+_print_G100                                                       0x00130    308
+printf                                                            0x00264     37
+strlen                                                            0x00289     12
+strlenf                                                           0x00295     13
